@@ -8,6 +8,10 @@ Le but est de montrer rapidement ma compréhension du rôle d'analyste en démon
 ## Résultat
 <img src=".github/static/report.jpg" width="800"/>
 
+
+>**Interpréation :** <br/>
+>L’analyse révèle que le modèle fiscal est plutôt stable : au niveau national, les écarts entre le produit réel et le produit attendu restent globalement faibles, ce qui indique que l’État collecte correctement la taxe foncière bâtie. En revanche, ces écarts importants sont plus fréquents dans les petites communes, où la base fiscale est plus restreinte. Quelques cas isolés montrent des différences marquées, ce qui pourrait justifier un contrôle plus approfondi ou une vérification manuelle.
+
 ## Contenu du projet
 
 - Analyse fonctionnelles des besoins utilisateurs 
