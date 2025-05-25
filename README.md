@@ -25,7 +25,7 @@ Le but est de montrer rapidement ma compréhension du rôle d'analyste en démon
 
 ## Organisation du dépôt
 
-- `etl/` : process etl de traitement des données
+- `etl/` : données traitées par l'ETL et implementation de cette dernière
 - `powerbi/` : fichier Power BI final (.pbix)
 - `docs/` : analyse fonctionnelle et modélisation
 - `data/` : sources de données utilisées
