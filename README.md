@@ -30,11 +30,6 @@ Le but est de montrer rapidement ma compréhension du rôle d'analyste en démon
 - `docs/` : analyse fonctionnelle et modélisation
 - `data/` : sources de données utilisées
 
-## Données
-
-Les données utilisées proviennent du fichier REI 2021 disponible sur data.gouv.fr :  
-https://www.data.gouv.fr/fr/datasets/impots-locaux-fichier-de-recensement-des-elements-dimposition-a-la-fiscalite-directe-locale-rei-3/
-
 ## Stack utilisée
 
 - Python (Jupyter Notebook) + DuckDB pour le traitement des données
