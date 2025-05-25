@@ -9,7 +9,7 @@ Nous avons donc construit un modèle décisionnel qui permet d'extraire les indi
 ## 2. Approche choisie
 
 Pour des raisons de simplicité et parce qu’il s’agit d’un projet personnel, nous n’avons pas utilisé un vrai data warehouse.  
-La modélisation a été réalisée directement dans Power BI à partir d’un fichier CSV nettoyé.
+La modélisation a été réalisée directement dans Power BI à partir du fichier CSV obtenu après l'éxecution de l'ETL.
 
 Cependant, nous avons quand même respecté les principes de la modélisation d’un entrepôt de données, en mettant en place un **modèle en étoile**.
 

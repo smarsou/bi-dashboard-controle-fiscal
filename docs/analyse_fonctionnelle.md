@@ -2,12 +2,12 @@
 
 ## 1. Contexte
 
-Ce projet a été réalisé dans un cadre fictif de mission d’analyse au sein d’une administration fiscale locale.  
+Ce projet a été réalisé dans un cadre fictif de mission d’analyse au sein d’une administration fiscale nationale.  
 Il s’appuie sur les données REI 2021 relatives à la taxe foncière sur les propriétés bâties (TFPB) en france, avec pour objectif de produire un tableau de bord synthétique, utilisable par un agent ou analyste dans le cadre d’un travail de contrôle ou de suivi.
 
 ## 2. Demande utilisateur
 
-**Profil utilisateur** : agent de la DDFiP ou collaborateur au sein d’un service en charge de la fiscalité locale.
+**Profil utilisateur** : collaborateur au sein d’un service en charge de la fiscalité à l'échelle nationale.
 
 **Demande exprimée** :
 
